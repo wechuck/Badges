@@ -1,1 +1,2 @@
-consle.log("Hello home ")
+var a = 1;
+conslo.log("hgjbhk");
